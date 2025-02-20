@@ -1,4 +1,4 @@
-![Alt Text](./Single_Image_Reconstruction.png)
+![Alt Text](./Single_Image_Reconstruct.png)
 
 Here are the results for the single image reconstruction.
 
